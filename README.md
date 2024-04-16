@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### 💪 Skills
-
 #### Platforms & Languages
+<hr/>
 <p>
   <img src ="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Spring Boot-6DB33F?&style=flat-square&logo=Spring Boot&logoColor=white"/>
@@ -40,5 +40,10 @@ Here are some ideas to get you started:
 
 ✔ 명지대학교 컴퓨터공학과 (2020.03 ~ 2023.02) <br />
 ✔ 팀스파르타 내일배움캠프 백엔드 6기 수료 (2023.05 ~ 2023.09) <br />
+
+
+
+![jjsjjs9's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjsjjs9&show_icons=true&theme=radical)
+
 
 
